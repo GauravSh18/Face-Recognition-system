@@ -6,7 +6,7 @@ run the command "npm install" in the terminal.
 python -m venv face_recognition_env
 
 ## Activate the virtual environment:
-On Windows: .\face_recognition_env\Scripts\activate And\r
+On Windows: .\face_recognition_env\Scripts\activate AND   
 On macOS/Linux: source face_recognition_env/bin/activate
 
 ## Install the dependencies: With the virtual environment activated, run:Install the dependencies: With the virtual environment activated, run:
